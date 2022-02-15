@@ -1,4 +1,4 @@
-﻿using MultipleIndividualEmailing.Model;
+﻿using MultipleIndividualEmailing.DomainModel;
 
 namespace MultipleIndividualEmailing.DomainServices
 {

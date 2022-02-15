@@ -1,6 +1,0 @@
-﻿namespace MultipleIndividualEmailing
-{
-    class MultiEmailService
-    {
-    }
-}
